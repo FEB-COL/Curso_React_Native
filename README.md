@@ -1,2 +1,2 @@
 # Curso_React_Native
-Curso clase 5 
+Presentacion del curso de React Native + Redux 
